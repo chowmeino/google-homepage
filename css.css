@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 1px;
+  }
+
+p {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+  }
+
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
